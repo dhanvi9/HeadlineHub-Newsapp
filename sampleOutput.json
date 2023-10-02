@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "Video: Maggie Haberman says 'it would be surprising' if Trump was content stopping at Biden impeachment inquiry  | CNN Politics",
+      "description": "New York Times Senior Political Correspondent Maggie Haberman explains to CNN’s Kaitlan Collins what she believes former President Donald Trump’s feelings are toward House Speaker Kevin McCarthy’s impeachment inquiry into President Joe Biden.",
+      "url": "https://www.cnn.com/videos/politics/2023/09/13/maggie-haberman-donald-trump-joe-biden-impeachment-inquiry-src-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230821224607-maggie-haberman-and-donald-trump.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-13T03:32:18Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "",
+      "title": "'It is not up to one billionaire': Warren calls for investigation into Musk's role in Ukraine war | CNN Politics",
+      "description": "Sen. Elizabeth Warren (D-MA) speaks with CNN’s Abby Phillip after reports about Elon Musk’s purported role in Russia’s war in Ukraine.",
+      "url": "https://www.cnn.com/videos/politics/2023/09/13/elon-musk-starlink-russia-ukraine-elizabeth-warren-sot-cpt-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912230023-elizabeth-warren.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-13T03:14:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Zac Anderson",
+      "title": "Ron DeSantis' shifting climate change politics: From 'green governor' to 'active hostility'",
+      "description": "DeSantis has tried to outflank Trump on the right and his climate change approach reflects that strategy.",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2023/09/12/desantis-climate-change-florida-faces-hurricanes/70836996007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/2018/09/15/NNWF/ghows-DA-75e987ef-392b-04c1-e053-0100007f1be5-0ca9d5b2.jpeg?crop=4677,2643,x0,y286&width=3200&height=1809&format=pjpg&auto=webp",
+      "publishedAt": "2023-09-12T22:47:08Z",
+      "content": "After Hurricane Idalia smashed into Florida last month, flooding the Big Bend region with devastating storm surge and splitting a 100-year-old oak tree at the governors mansion in Tallahassee, Gov. R… [+316 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Siobhan Hughes, Katy Stech Ferek",
+      "title": "House Speaker Kevin McCarthy Launches Formal Biden Impeachment Inquiry",
+      "description": "McCarthy says ‘allegations paint a picture of a culture of corruption’; White House says probe marks ‘extreme politics at its worst’",
+      "url": "https://www.wsj.com/politics/mccarthy-biden-impeachment-inquiry-b9cc6530?mod=hp_lead_pos4",
+      "urlToImage": "https://images.wsj.net/im-850663/social",
+      "publishedAt": "2023-09-12T14:27:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
